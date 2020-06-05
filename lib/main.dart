@@ -12,7 +12,7 @@ class Flutterdemo extends StatelessWidget {
               color: Colors.blue,
               child: Center(
                 child: Text(
-                  "Welcome To My World!",
+                  "Welcome!",
                   textDirection: TextDirection.ltr,
                   style: TextStyle(color: Colors.black12, fontSize: 40.0),
                 ),
